@@ -66,16 +66,9 @@ Segment customers into meaningful groups based on their purchase recency, freque
 
 ## Visuals
 
-- 📦 3D Cluster Plot of Recency, Frequency, and Monetary  
-- 📉 Elbow Plot to determine optimal `k`  
-- 📊 Segment-wise distributions and spending profiles
-
----
-
-## Deliverables
-
-- Jupyter Notebook (`.ipynb`) with full code, explanations, and plots
-- Cleaned dataset (`.xlsx` or `.csv`)
+- 3D Cluster Plot of Recency, Frequency, and Monetary  
+- Elbow Plot to determine optimal `k`  
+- Segment-wise distributions and spending profiles
 
 ---
 
